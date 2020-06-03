@@ -13,4 +13,4 @@ i'm not interisted in position ui ux so i cant support perfect matrial graphic d
 * navigation component
 * ViewModel from jetbac
 
-![]()
+<img src="https://raw.githubusercontent.com/MostafaAnter/SoftxpertTask/master/device-2020-06-03-201945.png" width="300">
